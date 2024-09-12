@@ -6,7 +6,8 @@
     gap: 40px;
 }
 .home .home-top{
-
+    display: flex;
+    justify-content: center;
 }
 
 .home .home-middle{
