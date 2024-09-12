@@ -1,0 +1,46 @@
+.home {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    height: 100vh; 
+    gap: 40px;
+}
+.home .home-top{
+
+}
+
+.home .home-middle{
+    
+}
+
+ .home-middle-head h3{
+    display: flex;
+    color: #4D4D4D;
+    text-align: center;
+    font-family: Inter;
+    font-size: 25.059px;
+    flex-direction: column;
+    align-items: center;
+}
+ .home-middle-head p{
+    display: flex;
+    color: #4D4D4D;
+    text-align: center;
+    font-family: Inter;
+    font-size: 15.137px;
+    font-weight: 400;
+    flex-direction: column;
+    align-items: center;
+}
+.home .home-middle .home-middle-list{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 30px;
+    gap: 50px;
+    padding: 10px 15px;
+}
+.home .home-bottom{
+    display: flex;
+    justify-content: space-around;
+}
